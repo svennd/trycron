@@ -1,0 +1,2 @@
+yum install epel-release
+yum install mariadb mariadb-server nginx
